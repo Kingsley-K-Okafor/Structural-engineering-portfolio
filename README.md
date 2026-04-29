@@ -1,7 +1,7 @@
 # structural-engineering-portfolio
-Structural design, analysis, and detailing projects including beams, shear walls, and connection systems.
+Structural design, analysis, and detailing projects, including beams, shear walls, and connection systems.
 
-Folders includes:
+Folders include:
                 residential-foundations-timber-framing/README.md
                 steel-enclosure-framing-coordination/README.md
                 commercial-details-package/README.md
