@@ -66,7 +66,7 @@ The projects reflect hands-on involvement in design support, drawing production,
 
 ## ⚙️ Tools & Software
 
-AutoCAD • Revit • Tekla Tedds • STAAD Pro • RFEM • Civil 3D • Bluebeam  
+AutoCAD • Revit • Tekla Tedds • STAAD Pro • RFEM • Civil 3D • Bluebeam • Forteweb • Microsoft Office
 
 ---
 
