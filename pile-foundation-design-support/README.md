@@ -24,7 +24,7 @@ Design support for pile foundation systems, linking structural calculations with
 ![Foundation Layout](pile-foundation-layout.png)  
 *Foundation layout showing pile positions and load distribution*
 
-![Foundation Calculation](Pile-2.png)  
+![Foundation Calculation](PILE-2.png)  
 *Calculation Excerpt for load distribution*
 
 ### ⚙️ Tools & Codes
