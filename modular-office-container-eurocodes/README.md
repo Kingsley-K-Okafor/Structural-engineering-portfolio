@@ -20,7 +20,7 @@ Structural coordination and detailing for a modular steel office system designed
 - Detail standardisation  
 
 ### 🖼️ Sample Work
-![Steel Frame Layout](modular-frame-layout.png.pdf)  
+![Steel Frame Layout](modular-frame-layout.pdf)  
 *Structural layout of modular steel framing system*
 
 ### ⚙️ Tools & Codes
