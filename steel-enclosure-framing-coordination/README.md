@@ -23,6 +23,9 @@ Coordination and detailing of steel enclosure framing systems, ensuring structur
 ![Steel Framing Layout](steel-framing-layout.png)    
 *Overall framing layout showing structural configuration and bracing intent*
 
+![Steel Framing Layout](steel-framing1-layout)    
+*Overall framing layout showing structural configuration and bracing intent*
+
 
 ### ⚙️ Tools
 AutoCAD • Revit  
