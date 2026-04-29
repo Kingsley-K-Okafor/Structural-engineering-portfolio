@@ -1,24 +1,29 @@
 # Commercial Details Package (US)
 
-## Overview
-Preparation and review of structural detail drawings for commercial projects, focusing on clarity, consistency, and constructability.
+### 🔍 Project Summary
+Development and review of structural detail drawings for commercial construction, focusing on clarity, consistency, and construction-ready documentation.
 
-## My Contribution
+### 🛠️ Key Responsibilities
 - Produced slab-edge, joint, and curb details  
 - Standardised reinforcement callouts and notes  
-- Responded to markups and issued revisions  
+- Responded to design markups and issued revised drawings  
 
-## What This Demonstrates
-- RC detailing  
+### 📈 Engineering Value
+- Improved clarity and consistency across detail sheets  
+- Reduced potential for construction errors  
+- Supported efficient drawing review and approval cycles  
+
+### 🧠 Skills Demonstrated
+- Reinforced concrete detailing  
 - Drawing QA and revision control  
-- Construction-focused documentation  
+- Technical documentation  
+- Construction-focused design  
 
-## Tools & Codes
-- AutoCAD  
-- ACI context  
+### 🖼️ Sample Work
+(Add screenshots here)
 
-## Sample Work
-(Add your screenshots here)
+### ⚙️ Tools & Codes
+AutoCAD • ACI  
 
-## Note
+### 📌 Note
 Full project packages are confidential. Selected extracts are shown for portfolio purposes.
