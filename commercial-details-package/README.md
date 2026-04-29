@@ -20,7 +20,11 @@ Development and review of structural detail drawings for commercial construction
 - Construction-focused design  
 
 ### 🖼️ Sample Work
-(Add screenshots here)
+![Joint Detail](joint-detail.png)  
+*Expansion/control joint detailing for movement and durability*
+
+![3D View / RC Detail](3D View.pdf)  
+*Reinforced concrete curb detail ensuring constructability and clarity*
 
 ### ⚙️ Tools & Codes
 AutoCAD • ACI  
