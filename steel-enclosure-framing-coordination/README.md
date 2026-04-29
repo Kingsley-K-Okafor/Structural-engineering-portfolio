@@ -20,7 +20,7 @@ Coordination and detailing of steel enclosure framing systems, ensuring structur
 - Buildability awareness  
 
 ### 🖼️ Sample Work
-![Steel Framing Layout](steel-framing-layout.png)    
+![Steel Framing Layout](steel-frami)    
 *Overall framing layout showing structural configuration and bracing intent*
 
 ![Steel Framing Layout](steel-framing1-layout.pdf)    
