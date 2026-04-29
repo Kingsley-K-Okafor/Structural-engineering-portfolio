@@ -20,7 +20,11 @@ Detailing of masonry and reinforced concrete components for a water basin struct
 - Construction detailing  
 
 ### 🖼️ Sample Work
-(Add screenshots here)
+![Section Detail](basin-section.png.pdf)  
+*Section through water-retaining structure highlighting RC/CMU interface*
+
+![Plan Detail](basin-plan.png.pdf)  
+*Plkan showing water-retaining structure layout*
 
 ### ⚙️ Tools
 AutoCAD  
