@@ -21,7 +21,11 @@ Design support for pile foundation systems, linking structural calculations with
 - Load assessment  
 
 ### 🖼️ Sample Work
-(Add screenshots here)
+![Foundation Layout](pile-foundation-layout.png)  
+*Foundation layout showing pile positions and load distribution*
+
+![Foundation Calculation](Pile2.png)  
+*Calculation Excerpt for load distribution*
 
 ### ⚙️ Tools & Codes
 Tekla Tedds • Eurocode / ACI  
