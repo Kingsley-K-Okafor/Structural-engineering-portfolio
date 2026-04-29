@@ -25,7 +25,7 @@ Structural design support for residential foundation systems and timber framing,
 ![Foundation Plan](foundation-plan.png.pdf)  
 *Foundation layout showing load path distribution*
 
-![Foundationplan1](foundation-plan1.png)  
+![Foundationplan1]()  
 *Foundation layout showing load path distribution*
 
 ![Framing Plan](timber-framing-detail.png)  
