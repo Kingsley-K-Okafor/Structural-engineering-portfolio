@@ -22,7 +22,7 @@ Structural design support for residential foundation systems and timber framing,
 - Buildability-focused detailing  
 
 ### 🖼️ Sample Work
-![Foundation Plan](foundation-plan.png)  
+![Foundation Plan](foundation-plan.png.pdf)  
 *Foundation layout showing load path distribution*
 
 ![Foundationplan1](foundation-plan1.png)  
