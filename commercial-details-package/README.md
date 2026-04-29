@@ -20,7 +20,7 @@ Development and review of structural detail drawings for commercial construction
 - Construction-focused design  
 
 ### 🖼️ Sample Work
-![Joint Detail](joint-detail.png)  
+![Joint Detail]()  
 *Expansion/control joint detailing for movement and durability*
 
 ![3D View](3DView.pdf)  
