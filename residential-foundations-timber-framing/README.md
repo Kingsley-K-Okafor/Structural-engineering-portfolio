@@ -22,7 +22,14 @@ Structural design support for residential foundation systems and timber framing,
 - Buildability-focused detailing  
 
 ### 🖼️ Sample Work
-(Add screenshots here)
+![Foundation Plan](foundation-plan.png)  
+*Foundation layout showing load path distribution*
+
+![Detail](foundation-plan1.png)  
+*Foundation layout showing load path distribution*
+
+![Framing Plan](timber-framing-detail.png)  
+*Roof layout showing timber load path distribution*
 
 ### ⚙️ Tools & Codes
 AutoCAD • IRC / IBC  
