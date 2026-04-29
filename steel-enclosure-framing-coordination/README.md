@@ -1,24 +1,29 @@
 # Steel Enclosure / Framing Coordination (US)
 
-## Overview
-Framing coordination and detailing for steel enclosure systems, ensuring stability, constructability, and clarity for site execution.
+### 🔍 Project Summary
+Coordination and detailing of steel enclosure framing systems, ensuring structural stability, constructability, and clarity for site execution.
 
-## My Contribution
-- Supported framing layout and bracing intent  
+### 🛠️ Key Responsibilities
+- Supported framing layout and bracing design intent  
 - Produced coordinated drawings with elevations and 3D views  
-- Maintained consistency across details and notes  
+- Maintained consistency across drawings, details, and notes  
 
-## What This Demonstrates
-- Steel framing understanding  
+### 📈 Engineering Value
+- Improved constructability through clear and coordinated detailing  
+- Reduced ambiguity in site installation  
+- Ensured structural intent was accurately communicated  
+
+### 🧠 Skills Demonstrated
+- Steel framing systems  
+- Structural coordination  
+- Drawing production and QA  
 - Buildability awareness  
-- Drawing coordination and clarity  
 
-## Tools
-- AutoCAD  
-- Revit  
+### 🖼️ Sample Work
+(Add screenshots here)
 
-## Sample Work
-(Add your screenshots here)
+### ⚙️ Tools
+AutoCAD • Revit  
 
-## Note
+### 📌 Note
 Full project packages are confidential. Selected extracts are shown for portfolio purposes.
